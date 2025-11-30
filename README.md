@@ -1,7 +1,7 @@
 instalasi database pada file env dengan nama database: absen
 diberikan 3 pilihan untuk fill data pada database :
 dengan seeder : jalankan php artisan migrate:fresh --seed
-import data absensi.sql yang sudah disediakan
+import data absen.sql yang sudah disediakan
 dengan eloquent orm
 masuk sesi admin
 email jhosua@gmail.com dan password : 123
